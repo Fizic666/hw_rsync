@@ -6,7 +6,7 @@
 - Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
 - На проверку направить скриншот с командой и результатом ее выполнения
 
-Команда для копирования файлов sudo rsync -a --progress --delete --exclude '.*' --checksum /home/nik /tmp/backup.
+Команда для копирования файлов sudo rsync -a --progress --delete --exclude '.*' --checksum /home/user /tmp/backup.
 
 ![Название скриншота 1](https://github.com/Fizic666/hw_rsync/blob/main/10_3_1.jpg)  
 ![Название скриншота 1](https://github.com/Fizic666/hw_rsync/blob/main/10_3_1-2.jpg)  
