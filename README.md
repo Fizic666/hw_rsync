@@ -11,7 +11,6 @@
 ![Название скриншота 1](https://github.com/Fizic666/hw_rsync/blob/main/10_3_1.jpg)  
 ![Название скриншота 1](https://github.com/Fizic666/hw_rsync/blob/main/10_3_1-2.jpg)  
 
-#Файл кофигурации [HaProxy](https://github.com/Fizic666/HomeWork_HaProxy/blob/main/1_haproxy.cfg).
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
